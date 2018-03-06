@@ -1,0 +1,6 @@
+ip_address,city,region,region_code,country,country_name,continent_code,postal,latitude,longitude,timezone,utc_offset,country_calling_code,currency,languages,asn,org
+132.66.7.104,Ramat HaSharon,Tel Aviv,TA,IL,Israel,AS,null,32.1472,34.8417,Asia/Jerusalem,+0200,+972,ILS,he	ar-IL	en-IL	,AS378,Israel InterUniversity Computation Center
+125.161.131.190,Jakarta,Jakarta,JK,ID,Indonesia,AS,null,-6.1744,106.8294,Asia/Jakarta,+0700,+62,IDR,id	en	nl	jv,AS17974,PT Telekomunikasi Indonesia
+123.160.204.40,Zhengzhou,Henan,HA,CN,China,AS,null,34.6836,113.5325,Asia/Shanghai,+0800,+86,CNY,zh-CN	yue	wuu	dta	ug	za,AS4134,No.31	Jin-rong Street
+114.125.212.164,Jakarta,Jakarta,JK,ID,Indonesia,AS,null,-6.1744,106.8294,Asia/Jakarta,+0700,+62,IDR,id	en	nl	jv,AS23693,PT. Telekomunikasi Selular
+113.162.119.60,Hanoi,Thanh Pho Ha Noi,HN,VN,Vietnam,AS,null,21.0333,105.85,Asia/Ho_Chi_Minh,+0700,+84,VND,vi	en	fr	zh	km,AS45899,VNPT Corp

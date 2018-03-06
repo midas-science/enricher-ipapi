@@ -1,0 +1,23 @@
+{
+	"source": {
+		"csv": {
+			"path": "YOUR_PATH/enricher-ipapi/examples/ip-addresses.csv"
+		}
+	},
+	"target": {
+		"csv": {
+			"path": "YOUR_PATH/enricher-ipapi/examples/ip-addresses_enriched.csv"
+		}
+	},
+	"enrichers": [
+		{
+			"name": "Ipapi",
+			"path": "YOUR_PATH/enricher-ipapi",
+			"config": {
+				"input_parameter": "$.*.ip_address",
+				"target_property": "location"
+			}
+		}
+	],
+	"name": "ipapi enrichment"
+}
